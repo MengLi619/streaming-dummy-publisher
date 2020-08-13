@@ -1,8 +1,0 @@
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video1.mp4
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video2.mp4
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video3.mp4
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video4.mp4
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video5.mp4
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video6.mp4
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video7.mp4
-http://mengli619.oss-cn-beijing.aliyuncs.com/videos/video8.mp4
