@@ -3,8 +3,8 @@ set -e
 
 SOURCE_COUNT=${SOURCE_COUNT:-8}
 RTMP_SERVER=${RTMP_SERVER:-rtmp://host.docker.internal/live}
-RESOLUTION=${RESOLUTION-640x360}
-FRAME_RATE=${FRAME_RATE-25}
+RESOLUTION=${RESOLUTION:-640x360}
+FRAME_RATE=${FRAME_RATE:-25}
 
 for i in $(seq 1 $SOURCE_COUNT); do
   echo "publish source$i"
